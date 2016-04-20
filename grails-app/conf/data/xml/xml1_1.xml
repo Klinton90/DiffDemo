@@ -1,0 +1,45 @@
+<result>
+    <id>getIncentive</id>
+    <data>
+        <lease>
+            <creditrating tier="STD">
+                <mileage code="20">
+                    <term length="24">
+                        <residualpct>67</residualpct>
+                        <acquisition>0</acquisition>
+                        <specialApr>0.0000</specialApr>
+                    </term>
+                </mileage>
+                <mileage code="24">
+                    <term length="24">
+                        <residualpct>65</residualpct>
+                        <acquisition>0</acquisition>
+                        <specialApr>0.0000</specialApr>
+                    </term>
+                </mileage>
+                <tradingDollars>1075</tradingDollars>
+            </creditrating>
+            <semiMonthlyQualified>true</semiMonthlyQualified>
+        </lease>
+        <purchase>
+            <creditrating tier="STD">
+                <term length="24">
+                    <standardApr>0.0499</standardApr>
+                    <specialApr>0.0000</specialApr>
+                </term>
+                <term length="36">
+                    <standardApr>0.0499</standardApr>
+                    <specialApr>0.0000</specialApr>
+                </term>
+                <tradingDollars>1000</tradingDollars>
+            </creditrating>
+            <semiMonthlyQualified>true</semiMonthlyQualified>
+        </purchase>
+        <defaultTerms>
+            <financeTerm>84</financeTerm>
+            <leaseTerm>60</leaseTerm>
+            <mileage>24</mileage>
+        </defaultTerms>
+    </data>
+    <errors/>
+</result>

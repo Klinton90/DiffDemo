@@ -1,0 +1,47 @@
+[
+  {
+    "id": -1,
+    "name": "Try yourself",
+    "description": "Put your XMLs into fields below, select test parameters and press 'Start Testing' button",
+    "xmlPath": "",
+    "ignoredElements": "",
+    "orderlySafeMode": true,
+    "orderlySafeChildrenMode": true
+  },
+  {
+    "id": 1,
+    "name": "Ignorable elements",
+    "description": "Different types of Ignored XML elements. Review 'Original XML' section to see original comparison state. There are lots of differences in provided XMLs. Using 'Ignored Elements' field we can compare only important data. As you can see, after performing comparison, differences has not been found.",
+    "xmlPath": "",
+    "ignoredElements": "mileage>@code=16,term>@length=12,@ignorable,purchase.creditrating.term.specialApr",
+    "orderlySafeMode": true,
+    "orderlySafeChildrenMode": true
+  },
+  {
+    "id": 2,
+    "name": "Path transformation",
+    "description": "Target of this example: compare only 'modelLine' nodes and ignore everything else. Original problem: these nodes have different parents. Example use 'XML Path' field for getting only reqired nodes.",
+    "xmlPath": "data.list.yearModelLines.modelLines.modelLine",
+    "ignoredElements": "",
+    "orderlySafeMode": true,
+    "orderlySafeChildrenMode": true
+  },
+  {
+    "id": 3,
+    "name": "Ignore order of elements",
+    "description": "Provided XMLs are pretty same, but order of elements is different. In original state, XML comparison will fail. To fix that, we can ignore order of elements.",
+    "xmlPath": "model",
+    "ignoredElements": "",
+    "orderlySafeMode": false,
+    "orderlySafeChildrenMode": true
+  },
+  {
+    "id": 4,
+    "name": "Ignore order of internal elements",
+    "description": "Provided XMLs are pretty same, but internal order of elements is different. In original state, XML comparison will fail. To fix that, we can ignore order of internal elements.",
+    "xmlPath": "inventory",
+    "ignoredElements": "",
+    "orderlySafeMode": true,
+    "orderlySafeChildrenMode": false
+  }
+]

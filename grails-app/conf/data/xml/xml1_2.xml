@@ -1,0 +1,102 @@
+<result>
+    <id>getModelLines</id>
+    <data>
+        <list>
+            <yearModelLines>
+                <yearDescription>2013</yearDescription>
+                <modelLines>
+                    <modelLine>
+                        <modelLineCode>EX</modelLineCode>
+                        <modelDescription>EX</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Crossovers  SUVs</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>FX</modelLineCode>
+                        <modelDescription>FX</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Crossovers  SUVs</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>G35</modelLineCode>
+                        <modelDescription>G35</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Sedans</bodyStyle>
+                    </modelLine>
+                </modelLines>
+            </yearModelLines>
+            <yearModelLines>
+                <yearDescription>2014</yearDescription>
+                <modelLines>
+                    <modelLine>
+                        <modelLineCode>6VI</modelLineCode>
+                        <modelDescription>6VI</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Coupes  Convertibles</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>Q5</modelLineCode>
+                        <modelDescription>Q5</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Sedans</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>Q5H</modelLineCode>
+                        <modelDescription>Q5H</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Hybrids</bodyStyle>
+                    </modelLine>
+                </modelLines>
+            </yearModelLines>
+            <yearModelLines>
+                <yearCode>2015</yearCode>
+                <yearDescription>2015</yearDescription>
+                <modelLines>
+                    <modelLine>
+                        <modelLineCode>Q6C</modelLineCode>
+                        <modelDescription>Q6C</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Coupes  Convertibles</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>Q6V</modelLineCode>
+                        <modelDescription>Q6V</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Coupes  Convertibles</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>Q7</modelLineCode>
+                        <modelDescription>Q7</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Sedans</bodyStyle>
+                    </modelLine>
+                </modelLines>
+            </yearModelLines>
+            <yearModelLines>
+                <yearCode>2016</yearCode>
+                <yearDescription>2016</yearDescription>
+                <modelLines>
+                    <modelLine>
+                        <modelLineCode>Q7L</modelLineCode>
+                        <modelDescription>Q7L</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Sedans</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>X5</modelLineCode>
+                        <modelDescription>X5</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Crossovers  SUVs</bodyStyle>
+                    </modelLine>
+                    <modelLine>
+                        <modelLineCode>X6</modelLineCode>
+                        <modelDescription>X6</modelDescription>
+                        <division>IN</division>
+                        <bodyStyle>Crossovers  SUVs</bodyStyle>
+                    </modelLine>
+                </modelLines>
+            </yearModelLines>
+        </list>
+    </data>
+    <errors/>
+</result>

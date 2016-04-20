@@ -1,0 +1,18 @@
+<models>
+    <model channel="NI" modelCode="Z2SG72" nCode="CAC20NIC141A1" modelYear="2012">
+        <shortDescription>370Z Touring (A7)</shortDescription>
+        <longDescription>2012 370Z 2dr Rear-wheel Drive Coupe</longDescription>
+    </model>
+    <model channel="NI" modelCode="Z2SG52" nCode="CAC20NIC141A0" modelYear="2012">
+        <shortDescription>370Z Touring (M6)</shortDescription>
+        <longDescription>2012 370Z 2dr Rear-wheel Drive Coupe</longDescription>
+    </model>
+    <model channel="NI" modelCode="Z3SG72" nCode="CAC20NIC142A1" modelYear="2012">
+        <shortDescription>370Z Touring w/Black Top (A7)</shortDescription>
+        <longDescription>2012 370Z 2dr Rear-wheel Drive Convertible</longDescription>
+    </model>
+    <model channel="NI" modelCode="Z3SG52" nCode="CAC20NIC142A0" modelYear="2012">
+        <shortDescription>370Z Touring w/Black Top (M6)</shortDescription>
+        <longDescription>2012 370Z 2dr Rear-wheel Drive Convertible</longDescription>
+    </model>
+</models>
