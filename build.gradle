@@ -59,8 +59,8 @@ dependencies{
     compile 'com.github.Klinton90:silly_diff:1.0.1'
 
     //provided for TomCat, Compile for development
-    //provided "org.springframework.boot:spring-boot-starter-tomcat"
-    compile "org.springframework.boot:spring-boot-starter-tomcat"
+    provided "org.springframework.boot:spring-boot-starter-tomcat"
+    //compile "org.springframework.boot:spring-boot-starter-tomcat"
 
     compile "org.springframework.boot:spring-boot-starter-logging"
     compile "org.springframework.boot:spring-boot-starter-actuator"

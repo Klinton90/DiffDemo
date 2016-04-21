@@ -7,7 +7,7 @@ import groovy.util.logging.Slf4j
 @Slf4j
 class IndexController {
 
-    HashMap<String, Object> viewModel = ["title":"Nissan Testing Tool"];
+    HashMap<String, Object> viewModel = ["title":"Silly_Diff Demo App"];
 
     static responseFormats = ['json'];
 

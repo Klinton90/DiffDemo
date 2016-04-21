@@ -12,7 +12,6 @@
     <asset:stylesheet src="application.css"/>
     <asset:stylesheet src="bootstrap.min.css"/>
     <asset:stylesheet src="bootstrap-ie10-fix.css"/>
-    <asset:stylesheet src="bootstrap-select.min.css"/>
     <asset:stylesheet src="bootstrap-theme.min.css"/>
     <asset:stylesheet src="default.css"/>
     <asset:stylesheet src="diffview.css"/>
